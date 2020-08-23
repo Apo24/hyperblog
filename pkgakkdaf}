@@ -1,0 +1,28 @@
+[33mcommit beaea3c0d554a6378a73c08d5afef1a73857fb7f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Carlos Gomez <cargomez1994@gmail.com>
+Date:   Sun Aug 23 01:38:24 2020 -0300
+
+    modificaciones en html y css
+
+ css/estilos.css | 21 [32m+++++++++++++++++++[m[31m--[m
+ index.html      |  9 [32m+++++++[m[31m--[m
+ 2 files changed, 26 insertions(+), 4 deletions(-)
+
+[33mcommit dc13bee1aaae62abf092f685745f8eff0c77453a[m
+Author: Carlos Gomez <cargomez1994@gmail.com>
+Date:   Sun Aug 23 01:03:30 2020 -0300
+
+    1er guardado
+
+ css/estilos.css |  5 [32m+++++[m
+ index.html      | 14 [32m++++++++++++++[m
+ 2 files changed, 19 insertions(+)
+
+[33mcommit 6884ca3e739c961398ba6260f723945cad69d3db[m
+Author: Carlos Gomez <cargomez1994@gmail.com>
+Date:   Sat Aug 22 17:47:47 2020 -0300
+
+    este es como el 5to intento
+
+ algo.txt | 3 [32m+++[m
+ 1 file changed, 3 insertions(+)
